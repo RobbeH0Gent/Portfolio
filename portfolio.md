@@ -30,10 +30,10 @@ _September 2015 – Juni 2019_
 ## 💻 Stage-ervaring
 
 **Data Engineer Stagiair**  
-*Bedrijf: [Voeg bedrijfsnaam toe]*  
-_Periode: [Voeg stageperiode toe]_  
+*Bedrijf: IntoData*  
+_Periode: febrauari 2025 -mei 2025_  
 - Ontwikkeling van data pipelines (ETL) in Python en SQL  
-- Werken met cloudoplossingen zoals Azure/AWS/GCP  
+- Werken met cloudoplossingen zoals AWS
 - Datavisualisatie met Power BI  
 - Optimaliseren van dataflows voor business rapportering  
 - Samenwerken in Agile-team met gebruik van Git en CI/CD  
@@ -86,22 +86,15 @@ Opzetten, opruimen, festival proper houden
 | Python             | 🔵🔵🔵🔵⚪ (80%) |
 | SQL                | 🔵🔵🔵🔵⚪ (88%) |
 | Power BI           | 🔵🔵🔵🔵🔵 (95%) |
-| Git & GitHub       | 🔵🔵🔵⚪⚪        |
-| Docker             | 🔵🔵⚪⚪⚪        |
-| Cloud Platforms    | 🔵🔵⚪⚪⚪        |
+| Git & GitHub       | 🔵🔵🔵⚪⚪ (67%) |
+| Docker             | 🔵🔵⚪⚪⚪ (50%) |
+| Cloud Platforms    | 🔵🔵🔵🔵⚪ (80%) |
 
 ---
 
 ## 🎯 Projecten
 
-📊 **[Voorbeeldproject 1 – Data Dashboard]**  
-Een interactief dashboard gebouwd met Power BI en Python backend, gebaseerd op publieke datasets (bijv. COVID, verkeersdata, …).
-
-📦 **[ETL-pipeline – Stageproject]**  
-Bouwen van een schaalbare ETL-pipeline met Airflow en Python om bedrijfsdata te transformeren en laden naar een cloud database.
-
-🤖 **[AI Model – Voorspelling Klantgedrag]**  
-Machine learning project met scikit-learn waarin klantverloop werd voorspeld o.b.v. historische transactiegegevens.
+Soon
 
 ---
 
